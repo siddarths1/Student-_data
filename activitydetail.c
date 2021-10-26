@@ -2,7 +2,7 @@
 void main()
 {
  
-  int paper,project,papersout,projectsout,codecar,hackathon,sem;
+  int paper,project,papersout,projectsout,codecar,hackathon,sem,git;
   String rollno;
   printf("enter roll no");
   scanf("%s",rollno);
@@ -20,6 +20,8 @@ void main()
   scanf("%d",codecar);
   printf("prize in hackathon");
   scanf("%d",hackathon);
+ printf("two credit git");
+   scanf("%d",git);
 
 }
 
